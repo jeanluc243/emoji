@@ -1,0 +1,8 @@
+{
+  "name": "Emoji",
+  "description": "This GNOME shell extension provides a searchable popup m",
+  "uuid": "emoji@jeanluc.kabulu.com",
+  "shell-version": [
+    "3.36"
+  ]
+}
